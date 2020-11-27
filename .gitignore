@@ -1,0 +1,10 @@
+.vscode
+*.class
+*.exe
+*
+!/**/
+!*.*
+
+!LICENSE
+launch.json
+tasks.json
